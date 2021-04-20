@@ -1,0 +1,67 @@
+{
+    "HEAD": "w3f315d71ef84849a11d9bcd4fc6ef83",
+    "w2eebacbc3e047aab0b9138bba105730": {
+        "extension": "js",
+        "kuid": "w2eebacbc3e047aab0b9138bba105730",
+        "name": "chartist.js",
+        "parent": "wc1ca6c9f07b42f9a636194a152f5f6a",
+        "type": "F"
+    },
+    "w3f315d71ef84849a11d9bcd4fc6ef83": {
+        "children": [
+            "wc1ca6c9f07b42f9a636194a152f5f6a"
+        ],
+        "kuid": "w3f315d71ef84849a11d9bcd4fc6ef83",
+        "name": "localfiles",
+        "type": "L"
+    },
+    "w5120ed3cafa40ac986657141003b29d": {
+        "extension": "css",
+        "kuid": "w5120ed3cafa40ac986657141003b29d",
+        "name": "chartistCss.css",
+        "parent": "wc1ca6c9f07b42f9a636194a152f5f6a",
+        "type": "F"
+    },
+    "w6270aecf8fd473da04c80ac4455c8eb": {
+        "extension": "js",
+        "kuid": "w6270aecf8fd473da04c80ac4455c8eb",
+        "name": "LIC.js",
+        "parent": "wc1ca6c9f07b42f9a636194a152f5f6a",
+        "type": "F"
+    },
+    "wb3d97f8724548ea839928986bf080a1": {
+        "extension": "js",
+        "kuid": "wb3d97f8724548ea839928986bf080a1",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "wc1ca6c9f07b42f9a636194a152f5f6a",
+        "type": "F"
+    },
+    "wb5a28c98cb542509550fc053cb0dc04": {
+        "extension": "html",
+        "kuid": "wb5a28c98cb542509550fc053cb0dc04",
+        "name": "areaChartist.html",
+        "parent": "wc1ca6c9f07b42f9a636194a152f5f6a",
+        "type": "F"
+    },
+    "wb90d4f502354cfbba5c42f6769edb55": {
+        "extension": "js",
+        "kuid": "wb90d4f502354cfbba5c42f6769edb55",
+        "name": "areaChart.js",
+        "parent": "wc1ca6c9f07b42f9a636194a152f5f6a",
+        "type": "F"
+    },
+    "wc1ca6c9f07b42f9a636194a152f5f6a": {
+        "children": [
+            "wb90d4f502354cfbba5c42f6769edb55",
+            "wb5a28c98cb542509550fc053cb0dc04",
+            "wb3d97f8724548ea839928986bf080a1",
+            "w2eebacbc3e047aab0b9138bba105730",
+            "w5120ed3cafa40ac986657141003b29d",
+            "w6270aecf8fd473da04c80ac4455c8eb"
+        ],
+        "kuid": "wc1ca6c9f07b42f9a636194a152f5f6a",
+        "name": "chartist_area",
+        "parent": "w3f315d71ef84849a11d9bcd4fc6ef83",
+        "type": "D"
+    }
+}

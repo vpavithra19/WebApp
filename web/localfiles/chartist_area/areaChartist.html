@@ -1,0 +1,45 @@
+<!--
+ * Created by Team Kony.
+ * Copyright (c) 2017 Kony Inc. All rights reserved.
+ -->
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <meta charset = "utf-8">
+    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">
+    <title>Chartist</title>
+    <meta name = "viewport" content = "width=device-width, initial-scale=1">
+    <link rel = "stylesheet" type = "text/css" href = "chartistCss.css">    
+      <style>    
+      	#chart{
+        	margin-left: 5%;
+        	top: 5%;
+        	width: 90%;
+        	height: 85%;
+        	z-index: 2;
+        	position: absolute;
+        }
+      	#body {
+        	float: vertical;
+      	}
+      	.Title_Properties {
+        	margin: 0;
+        	text-align: center;
+      	}
+        .ct-label {
+    		fill: rgba(88, 88,91, 1);
+    		color: rgba(88, 88,91, 1);
+    		font-size: 70%;
+    		line-height: 1;
+  			font-family: 'Helvetica';
+		} 
+    </style>
+  </head>
+  <body>
+    <p id = 'lblTitle' class = 'Title_Properties'></p>
+    <div class = "ct-chart" id = "chart"></div> 
+    <script type = "text/javascript" src = "chartist.js"></script>
+    <script type = "text/javascript" src = "chartist-plugin-axistitle.js"></script>
+    <script type = "text/javascript" src = "areaChart.js"></script>  
+    </body>
+</html>

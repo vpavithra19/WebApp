@@ -1,0 +1,39 @@
+    {
+        "visualizer": {
+                    "dependencies":[
+							{
+                                "name": "java",
+                                "version": "1.8.0_151",
+                                "description": "http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html",
+                                "dependsOn": [
+                                    {}
+                                ]
+                            },
+							{
+                                "name": "ant",
+                                "version": "1.10.8",
+                                "description": "https://archive.apache.org/dist/ant/binaries/",
+                                "dependsOn": [
+                                    {}
+                                ]
+                            },
+							{
+                                "name": "node",
+                                "version": "15.4.0",
+                                "description": "https://nodejs.org/en/download/releases/",
+                                "dependsOn": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "name": "xcode",
+                                "version": "9.0",
+                                "optional": true,
+                                "description": "https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/WhatsNewXcode/xcode_9/xcode_9.html",
+                                "dependsOn": [
+                                    {}
+                                ]
+                            }
+                        ]
+        }
+    }
